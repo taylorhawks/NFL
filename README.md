@@ -1,7 +1,7 @@
 # NFL
 
-To do:
+To do -  Hack XGBoost to produce confidence intervals:
 
-- Hack XGBoost to produce confidence intervals
-- Evaluate based on error function specified on Kaggle
-- Feature engineering
+1. use custom error funciton
+2. create xgboost subclass
+3. modify from medium article
