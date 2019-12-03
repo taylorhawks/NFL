@@ -4,9 +4,9 @@ To do -  Hack XGBoost to produce confidence intervals.
 
 Here's how some ppl did it: https://arxiv.org/pdf/1910.03225.pdf
 
-1. use custom error funciton
-2. create xgboost subclass
-3. modify from medium article
+https://www.kaggle.com/c/nfl-big-data-bowl-2020/discussion/117537#latest-677073
+
+https://towardsdatascience.com/regression-prediction-intervals-with-xgboost-428e0a018b
 
 ## Notes
 Predicted distribution for this dataset:
