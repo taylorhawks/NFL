@@ -8,6 +8,7 @@ https://www.kaggle.com/c/nfl-big-data-bowl-2020/discussion/117537#latest-677073
 
 https://towardsdatascience.com/regression-prediction-intervals-with-xgboost-428e0a018b
 
+http://www.metalogdistributions.com/images/KeelinPowley_QuantileParameterizedDistributions_2011.pdf
 
 
 ## Notes
